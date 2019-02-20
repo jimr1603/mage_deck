@@ -1,0 +1,59 @@
+Hi Dr Nick! You believe yourself to be the greatest medic who ever lived. Your skill rank in DOCTOR is 0 for the duration of this effect.
+IgNobel Prize: You believe yourself to be the greatest scientist who ever lived. Your skill rank in SCIENCE is 0 for the duration of this effect.
+1337 H4Z0R: You believe yourself to be the greatest hacker who ever lived. Your skill rank in COMPUTERS is 0 for the duration of this effect.
+There can be only one! You believe yourself to be the greatest hitty-stick who ever lived. Your skill rank in GETTING MEDIEVAL is 0 for the duration of this effect.
+Sparkling lights - You feel a greater connection to magic, and believe your offensive spells have been boosted. Your offensive spells deal 0 damage for the duration of this effect. Offensive spells do not count towards additional magic addictions for the duration of this effect.
+Cunning Linguist - you are fluent in every language that has ever existed, in every plane, and several that never existed. Anyone who disagrees is clearly pronouncing it wrong. Your skill rank in LANGUAGES is 0 for the duration of this effect.
+Funny Nosebleed. Your nose is bleeding, and won't stop. Lose 1hp/5 minutes. DOCTOR skill can cure current damage, but will not stop the bleeding.
+C.L.I.T.O.R.I.S.: Give peace a chance! The monsters attacking us are just misunderstood, and need our help. But the more important issue is what do we call ourselves?
+The Zeppo: There is no point you trying to do anything, it always goes wrong.
+The Collector. You want to hold on to any items you find.
+Beer Bad! You begin acting like a cave person. You revert to normal if holding a cup of tea. 
+Primal. Whenever anyone makes you laugh, you sound like a hyena.
+Out of Sight. Avoid eye contact with other players.
+Frenzy!!! Immediately attack the player closest to you. Once this resolves your magic addiction points are reduced to 0.
+Munchies... Your character reacts to savoury food as a cat would to catnip.
+Mine! You want to keep all the occult charms and magic scrolls that you can find.
+Thrice return. The next three magic spells that you cast count as double towards your next addiction.
+Withdrawal - You suffer from shakes, nausea and sweats, as if an addict going ‘cold turkey.’ It is hard to concentrate during this time. 
+Evil hand Your left hand begins moving without your consent and tries to cause mischief- perhaps it was never your hand to begin with.
+Blind - Magical ooze drips from your eyes. You have lost your vision and cannot see.
+Deaf - Magical ooze is dripping from your ears. You have lost your hearing and are deaf for the duration of this effect.
+Colourblind - your vision is in black & white for the duration of this effect. There are no outward symptoms.
+Touch-blind - you feel neither touch nor pain for the duration of this effect. Outstanding injuries will all feel painful at the end of this effect.
+Balance the elements: fire. You have disrupted elemental harmony with your casting. You feel a compulsion to increase fire.
+Balance the elements: earth. You have disrupted elemental harmony with your casting. You feel a compulsion to increase earth.
+Balance the elements: water. You have disrupted elemental harmony with your casting. You feel a compulsion to increase water.
+Balance the elements: air. You have disrupted elemental harmony with your casting. You feel a compulsion to increase air.
+Balance the elements: good. You have disrupted elemental harmony with your casting. You feel a compulsion to increase good.
+Balance the elements: evil. You have disrupted elemental harmony with your casting. You feel a compulsion to increase evil.
+Balance the elements: chaos. You have disrupted elemental harmony with your casting. You feel a compulsion to increase chaos.
+Balance the elements: law. You have disrupted elemental harmony with your casting. You feel a compulsion to increase law.
+The Prophet. You have been called by a Higher Power whose values are opposite of yours to be their representative on Earth. 
+Why do I get the funny syphilis? You suffer from fever and flu like symptoms.
+Minions! You believe that the players are all your hired minions and should be doing exactly as you have ordered them to.
+Something Blue: Begin planning your wedding with another character.
+Germaphobe: You will not touch anything that may not be sterile unless wearing gloves and protective clothing.
+Possession: Your mind becomes host to a spirit spying on the party for 30 minutes. Report to a ref after this time with what you overheard.
+Insane in the basement: You become a rhyming, nonsense speaking, but very determined member of the team.
+Goodbye to you… Have a heartfelt and dramatic break up with the next player you see.
+Altered reality: You keep having flashbacks of your life in an insane asylum. Is this the real life? Or is it just fantasy?
+One down… You seek out the opportunity to be alone with another character, so you can quietly kill them.
+Tabula Rasa: You have no idea who you are or what you are doing. Nor do you know any of the people around you.
+Hush: You cannot speak until someone asks you how you are feeling. Your first words must answer this question truthfully.
+Doublemeat Palace: Any time someone says “Umm…” you have to do the Freddie Mercury “We Will Rock You” pose.
+Halloween: You completely believe that everything supernatural is just part of a really awesome Halloween party.
+Spiral: You fall down the slippery slope. Use magic to solve whatever you can.
+Doppelgangland:You are now a doppelganger of the character to your right. Imitate every movement that they make.
+Band Candy: You revert back to the person you were when you were 15.
+These things…. Never useful! When you are unoccupied you make loud shooting gestures with your fingers as people pass by.
+Who? You begin twitching every time someone says your name.
+Are you spying on me? You feel constantly watched. Are there cameras in here?
+Shiny! You become easily distracted.
+Linoleum - You fall in lust with the closest character to your right.
+Because it’s wrong! You become very critical of wrongful actions taken in your presence.
+I could have fixed that! You would have done everything better than anyone else, with the use of a little magic.
+Get away from me! If people stand on your shadow you become verbally aggressive.
+Trauma: Lose all active magic addiction effects. Take a trauma card effect. It can not be drama-pointed.
+Unlucky - Nothing happens yet…
+Lucky: Nothing happens yet…
