@@ -26,7 +26,7 @@ ui <- fluidPage(
 )
 
 master_addiction_deck <- read_lines(here("data/mage.txt"))
-addiction_duration <- seconds(70)
+addiction_duration <- minutes(30)
 
 duration_to_mm_ss <- function(duration){
   duration <- as.numeric(duration)
